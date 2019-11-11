@@ -16,7 +16,8 @@ html, body{
 
 header{
   height:300px;
-  width:960px;
+  width:90%;
+  max-width: 960px;
   background:#e3e3e3;
 }
 
